@@ -1,0 +1,3 @@
+Güz Zorunlu dersler: [[Matematik_I]] , [[Endüstri_Mühendisliğine_Giriş]].
+Bahar Zorunlu Dersler: [[Ekonomi]] , [[İşbilim]].
+Seçmeli Dersler: [[İstatistik]] , [[Yöneylem Araştırması]], [[Mühendislik Mekaniği]], [[İş Hukuku]].

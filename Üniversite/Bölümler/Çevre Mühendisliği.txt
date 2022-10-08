@@ -1,0 +1,3 @@
+Güz Zorunlu dersler: [[Çevre_Kimyası_I]] , [[Çevre_Mikrobiyolojisi_I]].
+Bahar Zorunlu Dersler: [[Malzeme_Bilimi]] , [[Termodinamik]].
+Seçmeli Dersler: [[Zemin_Mekaniği]] , [[Halk Ve İşyeri Sağlığı]], [[Kimyasal Prosesler]], [[Hidrolik]].

@@ -1,0 +1,3 @@
+Güz Zorunlu dersler: [[Fizik_I]] , [[İngilizce_I]].
+Bahar Zorunlu Dersler: [[Matematik_II]] , [[Elektrik_I]].
+Seçmeli Dersler: [[İşletim Sistemleri]] , [[Görsel Programlama]], [[Siber GÜvenlik]], [[Nesneye_Yönelik_Programlama]].
