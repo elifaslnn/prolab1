@@ -1,0 +1,41 @@
+1	 	Matematik_I
+2	 	Programlama_I
+1	 	Matematik_II
+1	 	Programlama_II
+1	 	Nesneye YÃ¶nelik Programlama
+2	 	GÃ¶rsel Programlama
+1	 	VeritabanÄ±YÃ¶netimi
+2	 	Tarih!
+8	 	Ahmet ERDÄ°L
+4	 	Hikmet Hakan GÃœREL
+1	 	Tarih
+2	 	Ahmet SAYAR
+2	 	Alev MUTLU
+3	 	Programlama I
+
+Yetim Etiketler
+-------------
+Nesneye YÃ¶nelik Programlama
+GÃ¶rsel Programlama
+VeritabanÄ±YÃ¶netimi
+Tarih!
+Ahmet ERDÄ°L
+Hikmet Hakan GÃœREL
+Ahmet SAYAR
+Alev MUTLU
+Programlama I
+
+Ä°stenen Etiketler
+-------------
+Bilgisayar Mühendisliði
+Endüstri Mühendisliði
+Kimya Mühendisliði
+Yazýlým Mühendisliði
+Çevre Mühendisliði
+delrcm
+Matematik_ITarih!
+Matematik_ITarih
+NesneyeYönelikProgramlama
+hadibee
+output
+Burak Ýnner

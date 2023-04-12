@@ -1,0 +1,7 @@
+Dersin Kodu   : BLM102
+
+Dersin Adı    : Fizik I
+
+Öğretim Elemanları : Prof. Dr. [[Jale SÜRGÜLÜ]]	jale@kocaeli.edu.tr	02623033532
+                    
+Dersin İçeriği:Bir Temel Bilim Olarak Fizik ,Tek Boyutta Kinematik, İki ve Üç Boyutta Kinematik, Dinamik - Newton Yasaları, Dinamik Devam -Uygulamalar, İş ve Enerji, Enerji Korunumu, Doğrusal Momentum ve Korunumu

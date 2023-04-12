@@ -1,0 +1,55 @@
+1701736281	 	Matematik_I
+3	 	Programlama_I
+3	 	Matematik_II
+3	 	Programlama_II
+3	 	Nesneye YÃ¶nelik Programlama
+6	 	GÃ¶rsel Programlama
+4	 	VeritabanÄ±YÃ¶netimi
+2	 	Tarih!
+1	 	Ä°ngilizce_I
+3	 	Yoneylem
+2	 	Ä°ngilizce_II
+2	 	Uretim Planlama Kontrol
+1	 	Organik Kimya
+1	 	Ä°statistik
+1	 	Ã‡evre DÃ¼zenleme
+1	 	Ä°ngilizce
+4	 	Ahmet ERDÄ°L
+3	 	Hikmet Hakan GÃœREL
+2	 	Ahmet SAYAR
+2	 	Alev MUTLU
+1	 	Programlama I
+1	 	
+1	 	
+1	 	
+
+Yetim Etiketler
+-------------
+Nesneye YÃ¶nelik Programlama
+GÃ¶rsel Programlama
+VeritabanÄ±YÃ¶netimi
+Tarih!
+Ä°ngilizce_I
+Ä°ngilizce_II
+Uretim Planlama Kontrol
+Organik Kimya
+Ä°statistik
+Ã‡evre DÃ¼zenleme
+Ä°ngilizce
+Ahmet ERDÄ°L
+Hikmet Hakan GÃœREL
+Ahmet SAYAR
+Alev MUTLU
+Programlama I
+
+Ä°stenen Etiketler
+-------------
+Bilgisayar Mühendisliði
+Endüstri Mühendisliði
+Kimya Mühendisliði
+Yazýlým Mühendisliði
+Çevre Mühendisliði
+NesneyeYönelikProgramlama
+Tarih
+output
+Burak Ýnner

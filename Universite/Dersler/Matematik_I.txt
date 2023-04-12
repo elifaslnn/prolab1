@@ -1,0 +1,3 @@
+Dersin Kodu : 200
+Dersin Adı : [[Matematik_I]]
+Ders İçeriği : 

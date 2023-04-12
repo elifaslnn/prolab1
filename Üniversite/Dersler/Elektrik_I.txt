@@ -1,8 +1,0 @@
-Dersin Kodu   : BLM104
-
-Dersin Adı    : Elektrik I
-
-Öğretim Elemanları : Prof. Dr. [[Şule Yılmaz]]	yılmaz@kocaeli.edu.tr	02623033235
-                     Prof. Dr. [[Meltem Turgut]]	mltm.turgut@kocaeli.edu.tr	2623032211
-                     
-Dersin İçeriği: Temel devre elemanları; Kirchhoff yasaları; node ve mesh analizleri; kapasitörler ve indüktörler, birinci derece devreler: Direnç, Kondansatör, Anahtar, Bobin, Ölçüm Aletleri, İletkenler; Transistör, Doğru Akım; Alternatif Akım; Mantıksal Devreler. [[Elektrik_I]] dersinin devamı niteliğindedir.

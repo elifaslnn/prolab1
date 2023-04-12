@@ -1,0 +1,42 @@
+2	 	Matematik_I
+2	 	Programlama_I
+1	 	Matematik_II
+1	 	Programlama_II
+1	 	Nesneye Yönelik Programlama
+1	 	Görsel Programlama
+1	 	VeritabanıYönetimi
+1	 	Tarih!
+1	 	Şule Yılmaz
+1	 	Meltem Turgut
+1	 	Elektrik_I
+1	 	Jale SÜRGÜLÜ
+2	 	Ahmet ERDİL
+2	 	Programlama I
+1	 	Ahmet SAYAR
+1	 	Hikmet Hakan GÜREL
+1	 	Alev MUTLU
+
+Yetim Etiketler
+-------------
+Matematik_II
+Programlama_II
+Nesneye Yönelik Programlama
+Görsel Programlama
+VeritabanıYönetimi
+Tarih!
+Şule Yılmaz
+Meltem Turgut
+Jale SÜRGÜLÜ
+Ahmet ERDİL
+Programlama I
+Ahmet SAYAR
+Hikmet Hakan GÜREL
+Alev MUTLU
+
+İstenen Etiketler
+-------------
+output
+Bilgisayar Nuhendisligi
+Fizik_I
+Programlama_2
+Burak �nner
